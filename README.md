@@ -1,4 +1,4 @@
-# SQL-Pandas-DS_project-1
+# SQL-Pandas-DS_project-11
 Проект объемный, поэтому разделен на несколько частей:
 1) Select
 2) Подзапрос
